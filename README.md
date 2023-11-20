@@ -4,5 +4,5 @@ The data set used for this project was obtained from the UCI Machine Learning Re
 
 # Medium Publication
 
-Here is more detialded analysis <br />
+Here is more detialded analysis made in collaboration with my teammate Daniel Tong <br />
 https://towardsdatascience.com/model-selection-yacht-hydrodynamics-data-set-ec0f8591e8e8?source=friends_link&sk=ca2e1cab39f257df267b64e067857686
